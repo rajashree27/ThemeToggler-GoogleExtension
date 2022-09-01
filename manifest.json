@@ -1,23 +1,23 @@
 {
-  "name": "ColorModeCode",
-  "version": "1.0.0",
-  "manifest_version": 3,
-  "description": "Change Your Vision",
-  "icons": {
-    "16": "Icon/color-icon-26.jpg",
-    "32": "Icon/color-icon-26.jpg",
-    "48": "Icon/color-icon-26.jpg",
-    "128": "Icon/color-icon-26.jpg"
-  },
+	"name": "Color Mode Code | Theme Toggler",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"description": "Choose the theme you'd like to use. Easily switch between Light and Dark Mode.",
+	"icons": {
+		"16": "Icon/color-icon-26.jpg",
+		"32": "Icon/color-icon-26.jpg",
+		"48": "Icon/color-icon-26.jpg",
+		"128": "Icon/color-icon-26.jpg"
+	},
 
-  "background": {
-    "service_worker": "background-worker.js"
-  },
+	"background": {
+		"service_worker": "background-worker.js"
+	},
 
-  "action": {
-    "default_title": "ColorModeCode",
-    "default_popup": "popup.html"
-  },
-  "permissions": ["storage", "activeTab", "scripting","tabs"],
-  "host_permissions": ["https://*/*", "http://*/*"]
+	"action": {
+		"default_title": "ColorModeCode",
+		"default_popup": "popup.html"
+	},
+	"permissions": ["storage", "activeTab", "scripting", "tabs"],
+	"host_permissions": ["https://*/*", "http://*/*"]
 }

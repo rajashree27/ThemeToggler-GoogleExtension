@@ -9,6 +9,9 @@
     "48": "Icon/color-icon-26.jpg",
     "128": "Icon/color-icon-26.jpg"
   },
+
+
+  
   "background": {
     "scripts": ["popup.js"],
     "persistent": true

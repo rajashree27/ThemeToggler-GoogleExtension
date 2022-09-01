@@ -1,0 +1,21 @@
+{
+  "name": "ColorModeCode",
+  "version": "1.0.0",
+  "manifest_version": 2, 
+  "description": "Change Your Vision",
+  "icons": {
+    "16": "Icon/color-icon-26.jpg",
+    "32": "Icon/color-icon-26.jpg",
+    "48": "Icon/color-icon-26.jpg",
+    "128": "Icon/color-icon-26.jpg"
+  },
+  "background": {
+    "scripts": ["popup.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "ColorModeCode",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["https://*/*", "http://*/*", "tabs"]
+}

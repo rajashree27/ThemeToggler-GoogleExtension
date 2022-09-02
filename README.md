@@ -6,13 +6,13 @@
 3. Kaustubh Badve
 
 ## Extension Details:
-    Extension Done During hackthon which help user to choose screen apperance according to its use. 
-    it  Work accross the  website and page
+    Theme toggler extension built during hackthon which helps user to choose screen apperance according to its use(dark theme or light theme). 
+    It works accross any website and pages. 
 
 ## Tech Stack and features
-- Js
-- Html
-- Css 
+- JavaScript
+- HTML
+- CSS 
 
 ## Glimpse  of our extesnion:
 **Dark Mode**

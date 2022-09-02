@@ -1,4 +1,4 @@
-# GoogleExtension
+# GoogleExtension - Toggle Light/Dark Theme
 
 ## Team members:
 1. Rajashree Chakraborty

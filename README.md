@@ -6,7 +6,7 @@
 3. Kaustubh Badve
 
 ## Extension Details:
-    Extension DOne During hackthon which help user to choose scrren apperance according to its use.
+    Extension DOne During hackthon which help user to choose screen apperance according to its use.
 
 ## Tech Stack and features
 - Js

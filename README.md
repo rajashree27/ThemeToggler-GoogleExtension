@@ -1,4 +1,4 @@
-# GoogleExtension - Toggle Light/Dark Theme
+# GoogleExtension - Toggle Light/Dark Mode
 
 ## Team members:
 1. Rajashree Chakraborty
@@ -6,7 +6,8 @@
 3. Kaustubh Badve
 
 ## Extension Details:
-    Theme toggler extension built during hackthon which helps user to choose screen apperance according to its use(dark theme or light theme). 
+    Theme toggler extension built during hackthon which helps user to choose screen apperance 
+    according to its use(dark theme or light theme). 
     It works accross any website and pages. 
 
 ## Tech Stack and features
